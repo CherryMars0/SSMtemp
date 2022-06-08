@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="SSMtemp">
-    <output-path>$PROJECT_DIR$/out/artifacts/SSMtemp</output-path>
-    <root id="archive" name="SSMtemp.war" />
-  </artifact>
-</component>
